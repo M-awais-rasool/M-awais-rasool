@@ -1,173 +1,228 @@
 <div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Awais%20Rasool&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=rect&color=0:020617,50:0a0f1e,100:020617&height=2"/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0ea5e9,40:06b6d4,70:0284c7,100:0369a1&height=220&section=header&text=Awais%20Rasool&fontSize=56&fontColor=ffffff&animation=fadeIn&fontAlignY=40&desc=Full-Stack%20Engineer%20%E2%80%A2%20Mobile%20%E2%80%A2%20Microservices%20%E2%80%A2%20AI&descSize=17&descAlignY=60&descColor=bae6fd"/>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/awais-rasool713/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white&labelColor=0A66C2"/></a>&nbsp;
+<a href="https://www.awaisrasool.tech/"><img src="https://img.shields.io/badge/Portfolio-0ea5e9?style=flat-square&logo=vercel&logoColor=white"/></a>&nbsp;
+<a href="https://x.com/ch_awais_rasool"><img src="https://img.shields.io/badge/X_(Twitter)-000000?style=flat-square&logo=x&logoColor=white"/></a>&nbsp;
+<a href="mailto:ar30781871@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+
+<br/><br/>
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=17&pause=900&color=38BDF8&center=true&vCenter=true&width=600&lines=React+%7C+React+Native+%7C+Go+%7C+Node.js;Microservices+%7C+Kafka+%7C+Redis;Agentic+AI+%7C+LangChain+%7C+RAG+Pipelines;AWS+%7C+Docker+%7C+CI%2FCD+%7C+Terraform" alt="Typing SVG"/>
+
+<br/>
+
+<img src="https://komarev.com/ghpvc/?username=M-awais-rasool&label=Profile+Views&color=0ea5e9&style=flat-square"/>
+
 </div>
 
-<div align="center">
-  
-  ### 👨‍💻 Full-Stack Developer | 📱 Mobile App Developer | ☁️ Cloud Enthusiast
-  
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=2E9EF7&center=true&vCenter=true&width=500&lines=Full-Stack+Web+%26+Mobile+Developer;React+%7C+React+Native+%7C+Go;Building+Scalable+Applications;CI%2FCD+%26+AWS+Deployment" alt="Typing SVG" />
-  
-  <p align="center">
-    <img src="https://komarev.com/ghpvc/?username=M-awais-rasool&label=Profile%20Views&color=2e9ef7&style=for-the-badge" alt="Profile views" />
-  </p>
-  
-</div>
+<br/>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-### 🎯 About Me
+## `$ whoami`
 
-```javascript
-const awais = {
-    location: "Lahore, Pakistan 🇵🇰",
-    role: "Full-Stack Developer",
-    expertise: {
-        frontend: ["React.js", "React Native", "TypeScript", "Redux"],
-        backend: ["Go","Gin","Node.js", "Express.js"],
-        mobile: ["React Native", "Cross-platform Apps"],
-        cloud: ["AWS (S3, EC2)", "CI/CD Pipelines"],
-        databases: ["MongoDB", "MySQL", "Firebase"]
-    },
-    currentlyLearning: ["DevOps Automation"],
-    workingOn: "Scalable Full-Stack & Mobile Applications",
-    askMeAbout: ["React", "React Native", "Go", "Gin", "Node.js", "Express", "AWS Deployment"]
+```typescript
+const awais: Engineer = {
+  location : "Lahore, Pakistan 🇵🇰",
+  role     : "Full-Stack & Mobile Engineer",
+
+  expertise: {
+    frontend     : ["React.js", "TypeScript", "Redux", "Angular"],
+    mobile       : ["React Native", "iOS & Android"],
+    backend      : ["Go", "Gin", "Node.js", "Express.js"],
+    architecture : ["Microservices", "Event-Driven", "REST APIs", "gRPC"],
+    messaging    : ["Apache Kafka", "Redis Pub/Sub", "Message Queues"],
+    caching      : ["Redis", "In-Memory Caching", "Session Management"],
+    databases    : ["MongoDB", "MySQL", "Firebase", "Redis"],
+    cloud        : ["AWS (S3, EC2)", "Docker", "Terraform", "CI/CD"],
+  },
+
+  currentFocus : "Agentic AI · LLM Systems · Scalable Microservices",
+  exploring    : ["LangChain", "LangGraph", "AI Agents", "RAG", "Vector DBs"],
+  openTo       : "Full-Stack · Mobile · AI · Distributed Systems",
 };
 ```
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-### 💼 What I Do Best
-
-<div align="center">
-
-| 🎨 Frontend | 📱 Mobile | ⚙️ Backend | ☁️ Cloud & Deployment |
-|------------|----------|-----------|---------------------|
-| React.js | React Native | Go | AWS (S3, EC2) |
-| TypeScript | Cross-Platform | Gin | CI/CD Pipelines |
-| Redux | Mobile Apps | REST APIs | Cloud Deployment |
-| Responsive UI | iOS & Android | MongoDB | Server Management |
-
-</div>
-
----
-
-### 🌱 Currently Exploring
-
-<div align="center">
-  
-| Technology | Purpose | Progress |
-|------------|---------|----------|
-| 🔧 **Terraform** | Infrastructure as Code | 🌱 Learning |
-
-</div>
-
----
-
-### 🌐 Connect With Me
-
-<div align="center">
-  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/awais-rasool713/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://www.awaisrasool.tech/)
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://x.com/ch_awais_rasool)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ar30781871@gmail.com)
-
-</div>
-
----
-
-### 💻 Tech Stack & Tools
+## 🛠️ Tech Arsenal
 
 <div align="center">
 
-#### 🎨 Frontend Development
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Angular](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
+#### 🎨 Frontend
+![React](https://img.shields.io/badge/React-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0f172a?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0f172a?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Redux](https://img.shields.io/badge/Redux-0f172a?style=for-the-badge&logo=redux&logoColor=764ABC)
+![Angular](https://img.shields.io/badge/Angular-0f172a?style=for-the-badge&logo=angular&logoColor=DD0031)
+![HTML5](https://img.shields.io/badge/HTML5-0f172a?style=for-the-badge&logo=html5&logoColor=E34F26)
+![CSS3](https://img.shields.io/badge/CSS3-0f172a?style=for-the-badge&logo=css3&logoColor=1572B6)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-0f172a?style=for-the-badge&logo=bootstrap&logoColor=7952B3)
 
-#### 📱 Mobile Development
-![React Native](https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![iOS](https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+#### 📱 Mobile
+![React Native](https://img.shields.io/badge/React_Native-0f172a?style=for-the-badge&logo=react&logoColor=61DAFB)
+![iOS](https://img.shields.io/badge/iOS-0f172a?style=for-the-badge&logo=ios&logoColor=white)
+![Android](https://img.shields.io/badge/Android-0f172a?style=for-the-badge&logo=android&logoColor=3DDC84)
 
-#### ⚙️ Backend Development
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
-![Node.js](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=for-the-badge&logo=express&logoColor=white)
+#### ⚙️ Backend & Architecture
+![Go](https://img.shields.io/badge/Go-0f172a?style=for-the-badge&logo=go&logoColor=00ADD8)
+![Node.js](https://img.shields.io/badge/Node.js-0f172a?style=for-the-badge&logo=node.js&logoColor=339933)
+![Express.js](https://img.shields.io/badge/Express.js-0f172a?style=for-the-badge&logo=express&logoColor=ffffff)
+![Microservices](https://img.shields.io/badge/Microservices-0f172a?style=for-the-badge&logo=buffer&logoColor=0ea5e9)
+
+#### 📨 Messaging & Caching
+![Apache Kafka](https://img.shields.io/badge/Apache_Kafka-0f172a?style=for-the-badge&logo=apachekafka&logoColor=ffffff)
+![Redis](https://img.shields.io/badge/Redis-0f172a?style=for-the-badge&logo=redis&logoColor=FF4438)
 
 #### 🗄️ Databases
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-0f172a?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![MySQL](https://img.shields.io/badge/MySQL-0f172a?style=for-the-badge&logo=mysql&logoColor=4479A1)
+![Firebase](https://img.shields.io/badge/Firebase-0f172a?style=for-the-badge&logo=firebase&logoColor=FFCA28)
+![Redis](https://img.shields.io/badge/Redis_(DB)-0f172a?style=for-the-badge&logo=redis&logoColor=FF4438)
 
 #### ☁️ Cloud & DevOps
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Amazon S3](https://img.shields.io/badge/Amazon_S3-569A31?style=for-the-badge&logo=amazon-s3&logoColor=white)
-![EC2](https://img.shields.io/badge/Amazon_EC2-FF9900?style=for-the-badge&logo=amazon-ec2&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=for-the-badge&logo=terraform&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
-
-#### 💻 Programming Languages
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-0f172a?style=for-the-badge&logo=amazon-aws&logoColor=FF9900)
+![Amazon S3](https://img.shields.io/badge/S3-0f172a?style=for-the-badge&logo=amazon-s3&logoColor=569A31)
+![EC2](https://img.shields.io/badge/EC2-0f172a?style=for-the-badge&logo=amazon-ec2&logoColor=FF9900)
+![Docker](https://img.shields.io/badge/Docker-0f172a?style=for-the-badge&logo=docker&logoColor=2496ED)
+![Terraform](https://img.shields.io/badge/Terraform-0f172a?style=for-the-badge&logo=terraform&logoColor=7B42BC)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-0f172a?style=for-the-badge&logo=github-actions&logoColor=2088FF)
+![Git](https://img.shields.io/badge/Git-0f172a?style=for-the-badge&logo=git&logoColor=F05032)
 
 </div>
 
----
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
-### 🚀 My Expertise
+## 🤖 Currently Deep-Diving — AI & Agentic Systems
 
 <div align="center">
+
+<table>
+<tr>
+<td width="50%">
+
+**🧠 AI & LLMs**
+| Technology | Status |
+|------------|--------|
+| OpenAI API · Claude · Ollama | 🔥 Active |
+| LangChain · LangGraph | 📖 Learning |
+| Agentic Workflows · ReAct | 📖 Learning |
+| RAG Pipelines · Vector DBs | 🌱 Exploring |
+| Embeddings · Semantic Search | 🌱 Exploring |
+
+</td>
+<td width="50%">
+
+**🏗️ Distributed Systems**
+| Technology | Status |
+|------------|--------|
+| Apache Kafka · Event Streaming | 🔥 Active |
+| Redis · Caching Strategies | 🔥 Active |
+| Microservices Architecture | 🔥 Active |
+| gRPC · Service Mesh | 📖 Learning |
+| Terraform · IaC | 🌱 Exploring |
+
+</td>
+</tr>
+</table>
+
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
+
+## 🏗️ System Architecture
 
 ```mermaid
-graph LR
-    A[Full-Stack Development] --> B[Frontend - React.js]
-    A --> C[Mobile - React Native]
-    A --> D[Backend - Go]
-    D --> E[Gin APIs]
-    D --> F[Database Design]
-    A --> G[Cloud Deployment]
-    G --> H[AWS S3 & EC2]
-    G --> I[CI/CD Pipelines]
+graph TD
+    Client(["👤 Client"]):::user
+
+    subgraph Frontend["🌐 Frontend Layer"]
+        RJ["React.js · TypeScript"]:::fe
+        RN["React Native · Mobile"]:::fe
+    end
+
+    subgraph Gateway["⚡ API Gateway"]
+        GW["REST · gRPC"]:::gw
+    end
+
+    subgraph Services["🔧 Microservices — Go · Node.js"]
+        S1["Auth Service"]:::svc
+        S2["User Service"]:::svc
+        S3["Business Logic"]:::svc
+    end
+
+    subgraph Messaging["📨 Messaging & Caching"]
+        KF["Apache Kafka\nEvent Streaming"]:::msg
+        RD["Redis\nCache · Pub/Sub"]:::cache
+    end
+
+    subgraph Data["🗄️ Data Layer"]
+        MG["MongoDB"]:::db
+        MY["MySQL"]:::db
+        FB["Firebase"]:::db
+    end
+
+    subgraph Cloud["☁️ AWS · Docker · CI/CD"]
+        AW["EC2 · S3 · Terraform"]:::cloud
+    end
+
+    subgraph AI["🤖 AI Layer"]
+        AG["Agents · RAG · LangChain"]:::ai
+    end
+
+    Client --> Frontend
+    Frontend --> Gateway
+    Gateway --> Services
+    Services --> Messaging
+    Services --> Data
+    Services --> AI
+    Services --> Cloud
+
+    classDef user fill:#0ea5e9,color:#fff,stroke:none
+    classDef fe fill:#0c4a6e,color:#7dd3fc,stroke:#0ea5e9,stroke-width:1px
+    classDef gw fill:#164e63,color:#67e8f9,stroke:#06b6d4,stroke-width:1px
+    classDef svc fill:#0f172a,color:#38bdf8,stroke:#0284c7,stroke-width:1px
+    classDef msg fill:#1c1917,color:#fb923c,stroke:#f97316,stroke-width:1px
+    classDef cache fill:#1c0a0a,color:#f87171,stroke:#ef4444,stroke-width:1px
+    classDef db fill:#052e16,color:#4ade80,stroke:#16a34a,stroke-width:1px
+    classDef cloud fill:#1c1400,color:#fbbf24,stroke:#f59e0b,stroke-width:1px
+    classDef ai fill:#2e1065,color:#c084fc,stroke:#9333ea,stroke-width:1px
 ```
 
-</div>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
----
-
-### 📊 GitHub Statistics
+## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=M-awais-rasool&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" />
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=M-awais-rasool&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
+  <img height="180" src="https://github-readme-stats.vercel.app/api?username=M-awais-rasool&show_icons=true&hide_border=true&count_private=true&bg_color=020617&title_color=38bdf8&icon_color=0ea5e9&text_color=94a3b8&ring_color=0284c7" />
+  <img height="180" src="https://github-readme-streak-stats.herokuapp.com/?user=M-awais-rasool&hide_border=true&background=020617&ring=0ea5e9&fire=38bdf8&currStreakLabel=38bdf8&sideLabels=94a3b8&dates=64748b&currStreakNum=ffffff&sideNums=ffffff" />
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=M-awais-rasool&show_icons=true&theme=tokyonight&layout=compact&hide_border=true" alt="Top Languages" />
-  <img width="49%" src="https://github-readme-activity-graph.vercel.app/graph?username=M-awais-rasool&theme=tokyo-night&hide_border=true&area=true" alt="Contribution Graph" />
+  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs?username=M-awais-rasool&layout=compact&hide_border=true&bg_color=020617&title_color=38bdf8&text_color=94a3b8" />
+  <img height="160" src="https://github-readme-activity-graph.vercel.app/graph?username=M-awais-rasool&theme=react-dark&hide_border=true&area=true&bg_color=020617&color=38bdf8&line=0ea5e9&point=7dd3fc" />
 </div>
 
----
+</div>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"/>
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=100&section=footer"/>
-  
-  ### 💬 Let's Build Something Amazing Together!
-  
-  **Open to collaborating on Full-Stack & Mobile Development Projects**
-  
-  ![](https://hit.yhype.me/github/profile?user_id=M-awais-rasool)
-  
+
+<br/>
+
+**`> open_to_work --type="Full-Stack | Mobile | AI | Microservices"`**
+
+<sub>Lahore, Pakistan 🇵🇰 · Building distributed systems & AI-powered products</sub>
+
+<br/>
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0369a1,40:0284c7,70:0ea5e9,100:38bdf8&height=130&section=footer"/>
+
 </div>
